@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 3. **Install dependencies:**
    ```bash
     pip install -r requirements.txt
-    ```
+   ```
 
 ## Running the Project
 
