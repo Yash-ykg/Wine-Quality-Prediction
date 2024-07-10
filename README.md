@@ -1,6 +1,7 @@
 # Wine Quality Prediction
 
 Predicting wine quality using machine learning algorithms based on various features.
+The app is hosted at Streamlit https://wine-quality-predict.streamlit.app/
 
 ## Overview
 
@@ -25,8 +26,8 @@ To run this project locally, follow these steps:
    ```
 2. **Create and activate a virtual environment (recommended):**
    ```bash
-    virtualenv venv
-    source venv/bin/activate
+    python -m venv venv 
+    .\venv\bin\activate
     ```
 3. **Install dependencies:**
    ```bash
@@ -36,6 +37,5 @@ To run this project locally, follow these steps:
 ## Running the Project
 
     ```bash
-    cd wine-quality-prediction
     streamlit run app.py
     ```
