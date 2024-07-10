@@ -37,6 +37,5 @@ To run this project locally, follow these steps:
 
     ```bash
     cd wine-quality-prediction
-    jupyter notebook notebooks/EDA.ipynb
-    python main.py
+    streamlit run app.py
     ```
